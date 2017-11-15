@@ -1,2 +1,0 @@
-testing git
-It went rather well and I did a commit and push
