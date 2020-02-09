@@ -5,3 +5,4 @@ I am actually really suprised I waited this long to work with Git. It wasn't a n
 Just a few hours of playing around with it and having a few cheat sheets handy and friendly folks from the FCC Tempe/Phonix slack channel and I can expand and enjoy a better work flow.
 I was able to setup in VS Code
 4 things 2 more things
+That wasnt commited ot VS code
